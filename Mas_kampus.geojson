@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Kampus":"Kampus B STTNF","Luas":1.2},"geometry":{"coordinates":[106.8326874763427,-6.352878047730798],"type":"Point"},"id":0},{"type":"Feature","properties":{"Kampus":"Kampus A STTNF","Luas":4.7},"geometry":{"coordinates":[106.84440005616409,-6.362543254274854],"type":"Point"},"id":1}]}
